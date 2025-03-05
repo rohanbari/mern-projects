@@ -3,6 +3,7 @@
 This repository is dedicated to the projects I wrote during learning
 basics of the MERN stack.
 
+This project's source code is in the [`src`](./src) directory.
 Please feel free to make any changes to my code.
 
 ## Coding Environment
