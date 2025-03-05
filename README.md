@@ -1,16 +1,14 @@
-# DSA
+# mern-projects
 
-This repository is dedicated to the programs I wrote for several common topics
-on data structures and algorithms. I used Java primarily for this.
+This repository is dedicated to the projects I wrote during learning
+basics of the MERN stack.
 
-This project's source code is in the [`src`](./src) directory.
 Please feel free to make any changes to my code.
 
 ## Coding Environment
 
 - **System.** Win10
 - **IDE/Editor.** VS Code
-- **Compiler.** javac 21.0.6
 
 ## Contributing
 
